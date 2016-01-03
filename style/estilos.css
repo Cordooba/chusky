@@ -1,0 +1,60 @@
+.container {
+	margin-top: 4%;
+
+}
+
+.enlace {
+	text-align: right;
+}
+
+h1 {
+
+	color: #49FEAF;
+	text-align: center;
+	margin-bottom: 10%;
+}
+
+form {
+
+	margin-bottom: 10px;
+}
+
+.alinear {
+
+height: 30px;
+margin-bottom: 40px;
+
+}
+
+.usuario { 
+
+	
+	padding-left: 0px;
+	display: inline-block;
+}
+
+.publicar {
+
+	padding-left: 20px;
+	display: inline-block;
+}
+
+.pb {
+
+	border-top: 2px solid #8c0733;
+}
+
+.botones {
+
+	padding-bottom: 10px;
+}
+
+.boton { 
+	
+	display: inline-block;
+}
+
+.usuario {
+	padding-right: 0px;
+}
+
